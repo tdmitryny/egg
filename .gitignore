@@ -10,6 +10,7 @@ env/
 .env/
 virtualenv/
 .virtualenv/
+.windsurfrules/
 
 # Distribution / packaging
 .Python
